@@ -2,7 +2,7 @@
 
 # Lista de Tópicos Relevantes
 
-- [ ] Testes e depuração
+- [x] Testes e depuração
 - [ ] Animações e interatividade
 - [ ] Padrões de design e usabilidade
 - [ ] Versionamento e colaboração
